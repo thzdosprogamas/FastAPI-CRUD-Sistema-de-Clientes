@@ -1,5 +1,7 @@
-FastAPI CRUD – Sistema de Clientes
+Este é um projeto feito totalmente por mim para estudos e evolução, usando os códigos que eu tinha feito antes e moldando (ou adaptando) eles até o resultado atual. Fiquei travado em algumas partes, mas com esforço e muita sorte consegui fazer. Logo após concluir tudo, eu mandei para o chat revisar e apontar os erros, e assim fui montando. Mas, sem código nenhum feito pelo chat ou ele fazer sozinho, ele falava o que estava errado mas nunca mandava o código. E após eu concluir isso, dá até um certo orgulho de ver feito, algo pelo meu próprio esforço.
 
+
+FastAPI CRUD – Sistema de Clientes
 Este projeto é uma API simples de gerenciamento de clientes construída com FastAPI.
 O objetivo é demonstrar a lógica básica de um CRUD completo (Create, Read, Update, Delete) usando Python e Pydantic, simulando um banco de dados em memória.
 
